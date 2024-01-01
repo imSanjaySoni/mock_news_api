@@ -1,0 +1,17 @@
+[
+  {
+    "type": "stories",
+    "storyItems": [
+      "https://cdn.coverr.co/videos/coverr-a-lake-near-mountains-9570/1080p.mp4",
+      "https://cdn.coverr.co/videos/coverr-a-guy-is-fishing-on-the-rocks-by-the-sea-7522/1080p.mp4"
+    ]
+  },
+  {
+    "type": "webview",
+    "url": "https://preview.colorlib.com/theme/bootstrap/carousel-01/"
+  },
+  {
+    "type": "webview",
+    "url": "https://preview.colorlib.com/theme/bootstrap/carousel-02/"
+  }
+]
