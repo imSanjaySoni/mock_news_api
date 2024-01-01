@@ -1,10 +1,4 @@
 [
-  {
-    "path": "/states/1",
-    "method": "GET",
-    "statusCode": 200,
-    "data": {
-      "data": [
         {
           "type": "small",
           "categories": [
@@ -120,6 +114,3 @@
           ]
         }
       ]
-    }
-  }
-]
