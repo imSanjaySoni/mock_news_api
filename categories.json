@@ -1,0 +1,125 @@
+[
+  {
+    "path": "/states/1",
+    "method": "GET",
+    "statusCode": 200,
+    "data": {
+      "data": [
+        {
+          "type": "small",
+          "categories": [
+            {
+              "label": "My feed",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg",
+              "url": "/states/2"
+            },
+            {
+              "label": "All news",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg",
+              "url": "/states/3"
+            },
+            {
+              "label": "Real Estate",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg",
+              "url": "/states/4"
+            },
+            {
+              "label": "My feed2",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg",
+              "url": "/states/2"
+            },
+            {
+              "label": "All news2",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg",
+              "url": "/states/3"
+            },
+            {
+              "label": "Real Estate2",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg",
+              "url": "/states/4"
+            }
+          ]
+        },
+        {
+          "type": "big",
+          "name": "SUGGESTIONS",
+          "categories": [
+            {
+              "url": "/states/3",
+              "label": "My feed",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg"
+            },
+            {
+              "url": "/states/2",
+              "label": "All news",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg"
+            },
+            {
+              "url": "/states/4",
+              "label": "Real estate",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg"
+            },
+            {
+              "url": "/states/6",
+              "label": "Cinemas",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg"
+            },
+            {
+              "url": "/states/5",
+              "label": "Trending",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg"
+            }
+          ]
+        },
+        {
+          "type": "big",
+          "name": "ANOTHER SUGGESTIONS GROUP",
+          "categories": [
+            {
+              "url": "/states/3",
+              "label": "My feed",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg"
+            },
+            {
+              "url": "/states/2",
+              "label": "All news",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg"
+            }
+          ]
+        },
+        {
+          "type": "small",
+          "name": "Small Group with Name",
+          "categories": [
+            {
+              "label": "My feed3",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg",
+              "url": "/states/2"
+            },
+            {
+              "label": "All news3",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg",
+              "url": "/states/3"
+            },
+            {
+              "label": "Real Estate3",
+              "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/29/550x309/External-affairs-minister-S-Jaishankar-during-the-_1696013860244.jpg",
+              "url": "/states/0"
+            }
+          ]
+        },
+        {
+          "type": "small",
+          "name": "Small Group with Single",
+          "categories": [
+            {
+              "label": "My feed3",
+              "thumbnail": "https://www.metrorailnews.in/wp-content/uploads/2021/05/Chennai-Metro-Elevated-Section.jpg",
+              "url": "/states/2"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
