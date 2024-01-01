@@ -1,20 +1,21 @@
-[
-        {
-          "name": "Bangalore"
-        },
-        {
-          "name": "Mangalore"
-        },
-        {
-          "name": "Mysor"
-        },
-        {
-          "name": "Tumkur"
-        },
-        {
-          "name": "Udupi"
-        },
-        {
-          "name": "Kolar"
-        }
+{"data":[
+  {
+    "name": "Bangalore"
+  },
+  {
+    "name": "Mangalore"
+  },
+  {
+    "name": "Mysor"
+  },
+  {
+    "name": "Tumkur"
+  },
+  {
+    "name": "Udupi"
+  },
+  {
+    "name": "Kolar"
+  }
 ]
+}
